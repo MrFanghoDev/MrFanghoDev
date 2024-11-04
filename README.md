@@ -1,6 +1,6 @@
 👋 Hi, I’m @MrFanghoDev
 
-A few years as a SW développer made me some kind of guy wanting to do things on my own.
+A few years as a SW developper made me some kind of guy wanting to do things on my own.
 And keeping track of what I do, 'cause I'm starting to get old.
 
 <!---
